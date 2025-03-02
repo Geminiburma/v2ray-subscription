@@ -1,3 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MnVJcUdab0NKWjV3bVRrQkxoV2hL@d74outline.privatevpn.services:37311#Outline%20Key_20_d74%20Exp_2025-04-16
-ss://YWVzLTI1Ni1nY206U09SalZETUpwQnVvRXRRenF4NXdmcVFvT2JoNXB3MER4RkdleVhSaWNxTT0@local.cnmax.online:8443?type=tcp#Free%201
-hysteria2://deac90fe-b151-4f2c-ac85-8d4a6a17998f@yd1.yiyuanlx.cc:34560?peer=yd1.yiyuanlx.cc&insecure=1&obfs=none#%E5%8D%B0%E5%BA%A61
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MnVJcUdab0NKWjV3bVRrQkxoV2hL@d74outline.privatevpn.services:37311#Speedo
+ss://YWVzLTI1Ni1nY206U09SalZETUpwQnVvRXRRenF4NXdmcVFvT2JoNXB3MER4RkdleVhSaWNxTT0@local.cnmax.online:8443?type=tcpFree%201
+hysteria2://deac90fe-b151-4f2c-ac85-8d4a6a17998f@yd1.yiyuanlx.cc:34560?peer=yd1.yiyuanlx.cc&insecure=1&obfs=none#India

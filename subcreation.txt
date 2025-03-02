@@ -8,3 +8,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyR1pCUHFUY01RTzFObzBwWU50M0ZT@157.245.119.23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4RjFQN2h5a3Z5OVJKbzl5NXVudjFT@104.236.247.194:27030/?outline=1#KHP-US104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MnVJcUdab0NKWjV3bVRrQkxoV2hL@d74outline.privatevpn.services:37311#Outline%20Key_20_d74%20Exp_2025-04-16
 ss://YWVzLTI1Ni1nY206U09SalZETUpwQnVvRXRRenF4NXdmcVFvT2JoNXB3MER4RkdleVhSaWNxTT0@local.cnmax.online:8443?type=tcp#Free%201
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir

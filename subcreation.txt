@@ -2,8 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MnVJcUdab0NKWjV3bVRrQkxoV2hL@d74outline.pri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaGFJTGlzOVR3TjlCSDNWdTNwWWFX@46.250.225.185:19403/#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TmpBOUEzWHp5M0Y4aGdtbUd6dnhWQDEwMy4xNjQuNTQuMjE0OjQ0NDY4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM3ptRHp2YWRMVE9rcTU1T1NvU2JY@178.128.215.62:10909/?outline=1#5tb
-vmess://YXV0bzo4YzE4ZThkMS04YzJjLTQ0ZjItYTNiOS0yMDg5OGYyMjQ2ODNAMTAuMTAzLTQ0MC03Ni0xMDcuc2l0ZTo0NDM?remarks=10.103-440-76-107.site%20tls%20httpupgrade%20direct%20vmess&obfsParam=10.103-440-76-107.site&path=/uu3x3CYRTBs2VdtQS6NxYI7eP2&obfs=httpupgrade&tls=1&peer=10.103-440-76-107.site&alpn=http/1.1&alterId=0
-vless://YXV0bzo4YzE4ZThkMS04YzJjLTQ0ZjItYTNiOS0yMDg5OGYyMjQ2ODNAMjAuMTAzLTQ0MC03Ni0xMDcuc2l0ZTo0NDM?remarks=20.103-440-76-107.site%20tls%20WS%20direct%20vless&obfsParam=20.103-440-76-107.site&path=/SjlELehaYvyIfhxy4hEGCv&obfs=websocket&tls=1&peer=20.103-440-76-107.site&alpn=http/1.1
-vmess://YXV0bzo4YzE4ZThkMS04YzJjLTQ0ZjItYTNiOS0yMDg5OGYyMjQ2ODNAMjAuMTAzLTQ0MC03Ni0xMDcuc2l0ZTo0NDM?remarks=20.103-440-76-107.site%20tls%20httpupgrade%20direct%20vmess&obfsParam=20.103-440-76-107.site&path=/uu3x3CYRTBs2VdtQS6NxYI7eP2&obfs=httpupgrade&tls=1&peer=20.103-440-76-107.site&alpn=http/1.1&alterId=0
-vless://YXV0bzo4YzE4ZThkMS04YzJjLTQ0ZjItYTNiOS0yMDg5OGYyMjQ2ODNAMTAuMTAzLTQ0MC03Ni0xMDcuc2l0ZTo0NDM?remarks=10.103-440-76-107.site%20tls%20WS%20direct%20vless&obfsParam=10.103-440-76-107.site&path=/SjlELehaYvyIfhxy4hEGCv&obfs=websocket&tls=1&peer=10.103-440-76-107.site&alpn=http/1.1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QnU2ckNSdzZuVk5CVGpWZFQ4V2JDQDIwNi4xODkuNDEuODM6Mjg2MA#Burma
+
 

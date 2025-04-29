@@ -17,3 +17,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNlNvY29JQzZSZktsWUFqU01ETjVk@128.199.190.75
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQd1NlZVVubEJHdkRGdTNNem5sM3Na@167.172.77.202:57450/?outline=1#Someday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHUlZIaFo3aW52N0Z5NmRPbklENjhN@209.38.20.27:19358/?outline=1#Oneday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIUm84NzhWY3hqUXBZVDFmeUZ6YTZT@104.236.56.43:4611/?outline=1#Funday
+vmess://e84bfb92-63d3-4e47-b9aa-84c642484202@128.199.158.4:15593?encryption=auto&type=raw&security=none#IDGAF

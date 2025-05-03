@@ -15,3 +15,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHUlZIaFo3aW52N0Z5NmRPbklENjhN@209.38.20.27:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIUm84NzhWY3hqUXBZVDFmeUZ6YTZT@104.236.56.43:4611/?outline=1#Funday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWExDbzhLZXc3WERxbElXdzdZd3dyaC9UOEs3dzRYRGxNT2x3cEYwdzRVV3dydFV3cGpDbFVsRnc3bkNrTUs2ZkhFPQ@134.209.110.199:36495/?type=tcp#Test
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U3RoeUptVk5wSXcyNVNOaWM3UmpD@52.221.179.248:50745/?outline=1#memo
+vmess://YXV0bzozMTQ2MmIxYi00YzA0LTQ2OTEtODRlOC0yNzg5NzQ2OTY5NDNAMjAuMTAzLTQ0MC03Ni05NS5zdG9yZTo0NDM?remarks=20.103-440-76-95.store%20tls%20httpupgrade%20direct%20vmess&obfsParam=20.103-440-76-95.store&path=/uu3x3CYRTBs2VdtQS6NxYI7eP2&obfs=httpupgrade&tls=1&peer=20.103-440-76-95.store&alpn=http/1.1&alterId=0

@@ -4,10 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TmpuVzRXbEZ1dEZ4ZXJVdDBMa1du@128.199.138.21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5U3RoeUptVk5wSXcyNVNOaWM3UmpD@52.221.179.248:50745/?outline=1#memo
 vless://84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560%23Tel-%40M_Buy&security=tls&encryption=none&host=maxnetvipaP-us4.NetKh3.sItE&type=ws&sni=maxnetvipaP-us4.NetKh3.sItE#%40M_Buy%F0%9F%87%BA%F0%9F%87%B8
 vmess://YXV0bzozMTQ2MmIxYi00YzA0LTQ2OTEtODRlOC0yNzg5NzQ2OTY5NDNAMjAuMTAzLTQ0MC03Ni05NS5zdG9yZTo0NDM?remarks=20.103-440-76-95.store%20tls%20httpupgrade%20direct%20vmess&obfsParam=20.103-440-76-95.store&path=/uu3x3CYRTBs2VdtQS6NxYI7eP2&obfs=httpupgrade&tls=1&peer=20.103-440-76-95.store&alpn=http/1.1&alterId=0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTN1NYZ0l2RUdqS2FJak9rZzMzdEN6@128.199.117.97:35327/?outline=1#1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOTA5eEJmamxwSjBuVHhKbDNZY1FJ@68.183.230.174:57071/?outline=1#2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YWdMYXV4eERTOFUxTlUwblZ1NFNB@178.128.209.166:62058/?outline=1#3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UkhtbFlwN2hncDBGVUpmMnV0UGdW@68.183.224.71:49469/?outline=1#4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqb1gxb29XeDJ2RDdUVGZkNFJRYnRv@157.245.205.181:40516/?outline=1#Monday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWjRRRHdBRlhKUVZWbnBxTEVoTnBo@209.38.20.27:19358/?outline=1#Tuesday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmp6RExhSjM5a3B0MGg1VENRcGRE@104.236.56.43:4611/?outline=1#Wednesday

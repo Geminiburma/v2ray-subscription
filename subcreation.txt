@@ -10,6 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQmNBOU9uRVFhWlp0WWpBTDJaMlRu@152.42.221.179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZZHF3cm5OQ1V6d3hLNG11SmkyajN3@128.199.134.231:19647/?outline=1#Sunnyday
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0WDBiOHhoa2tKQUQ0dkNTRWFGZVJn@128.199.141.151:11771/?outline=1#Superday
 https://cG9kYmJ5bGYlNDBtYXlvcmxvZ2lzdGljLmNvbToyNWQ1NWFkMjgzYWE0MDBhZjQ2NGM3NmQ3MTNjMDdhZEBzaW5nYXBvcmUuc3F4MDAxLmNvbTo0NDM?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-
+vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@113.29.230.73:43000?security=reality&sni=www.hkust.edu.hk&allowInsecure=1&fp=safari&pbk=PDd8Ipe0CWubWkEOtNkMbU1ojNXFncTkbjxR5FioqWo&sid=0d1c3c&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20MySpeed
 
 

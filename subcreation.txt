@@ -1,15 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VG43TzZpdzFHRkZVaGlzYVlUNHRH@d50outline.privatevpn.services:25378/#Speedo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QnU2ckNSdzZuVk5CVGpWZFQ4V2JD@206.189.41.83:2860/?outline=1#SpeedOfLight
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TmpuVzRXbEZ1dEZ4ZXJVdDBMa1du@128.199.138.214:60372/?outline=1#Speedy
-vless://84630ddd-b04a-4494-aa3a-b831a9873b81@172.66.168.209:443?path=%2Flinkws%3Fed%3D2560%23Tel-%40M_Buy&security=tls&encryption=none&host=maxnetvipaP-us4.NetKh3.sItE&type=ws&sni=maxnetvipaP-us4.NetKh3.sItE#%40M_Buy%F0%9F%87%BA%F0%9F%87%B8
-vmess://YXV0bzozMTQ2MmIxYi00YzA0LTQ2OTEtODRlOC0yNzg5NzQ2OTY5NDNAMjAuMTAzLTQ0MC03Ni05NS5zdG9yZTo0NDM?remarks=20.103-440-76-95.store%20tls%20httpupgrade%20direct%20vmess&obfsParam=20.103-440-76-95.store&path=/uu3x3CYRTBs2VdtQS6NxYI7eP2&obfs=httpupgrade&tls=1&peer=20.103-440-76-95.store&alpn=http/1.1&alterId=0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqb1gxb29XeDJ2RDdUVGZkNFJRYnRv@157.245.205.181:40516/?outline=1#Monday
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYR2ZGZzdUMWxHRFl4bkpQUjVoaTVj@178.128.223.15:16664/?outline=1#Thursday
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0aUR3ZnRtN2Q3YXQ4dGh3dzlSTnhi@209.97.168.72:49924/?outline=1#Friday
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQmNBOU9uRVFhWlp0WWpBTDJaMlRu@152.42.221.179:54257/?outline=1#Funday
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZZHF3cm5OQ1V6d3hLNG11SmkyajN3@128.199.134.231:19647/?outline=1#Sunnyday
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0WDBiOHhoa2tKQUQ0dkNTRWFGZVJn@128.199.141.151:11771/?outline=1#Superday
-https://cG9kYmJ5bGYlNDBtYXlvcmxvZ2lzdGljLmNvbToyNWQ1NWFkMjgzYWE0MDBhZjQ2NGM3NmQ3MTNjMDdhZEBzaW5nYXBvcmUuc3F4MDAxLmNvbTo0NDM?allowInsecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@113.29.230.73:43000?security=reality&sni=www.hkust.edu.hk&allowInsecure=1&fp=safari&pbk=PDd8Ipe0CWubWkEOtNkMbU1ojNXFncTkbjxR5FioqWo&sid=0d1c3c&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20MySpeed
+
 
 

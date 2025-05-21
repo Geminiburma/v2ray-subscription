@@ -1,5 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VG43TzZpdzFHRkZVaGlzYVlUNHRH@d50outline.privatevpn.services:25378/#Speedo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2QnU2ckNSdzZuVk5CVGpWZFQ4V2JD@206.189.41.83:2860/?outline=1#SpeedOfLight
-
+ss://YWVzLTI1Ni1nY206cjZjd2RHY3plQXhwbkNLVVRnbjBScFRzU3pJZWNtLzZ5ZjQzSjNmM2o4QT0@103.62.52.253:19320?type=tcp#LifeisSuffering
 
 

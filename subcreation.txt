@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4STg1T3hDYk41TTdLTFVBNmpSTkpX@5.78.124.185:11534/?outline=1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VG43TzZpdzFHRkZVaGlzYVlUNHRH@d50outline.privatevpn.services:25378/#Speedo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QmV6eXhFQ0RIMXhjc08wQ2RJMlVk@165.22.48.6:32025/?outline=1#Urshyne
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VG43TzZpdzFHRkZVaGlzYVlUNHRH@d50outline.privatevpn.services:25378/#Outline%20Key_527_d50%20Exp_2025-10-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya1dBS1ZOZHNBNTJXNG8wZ1NYUUF3@154.90.45.149:32939/#G3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaFlFdWZucTlNOXl2Z0FjMXlsdmZx@165.22.61.177:18336#%F0%9F%87%B8%F0%9F%87%AC%20SG%20ONIMUSH
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?security=none&encryption=none&headerType=none&type=tcp#SG%F0%9F%87%B8%F0%9F%87%AC
@@ -23,6 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QlFwM1duVThmY3Jua1RBek9HWW9v@170.64.190.82:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYdjc2SHdOOXY3MjlrYzhmUXBHM0N3@104.248.158.246:25429/?outline=1#ShyneDream
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMU5kTlpPRzdxb1NWY2xLeVBFMzNN@143.198.18.140:41183/?outline=1#DreamLand
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cjZKejFuaEhhREVWS0Z4MFRVM2Y4@159.89.199.104:12697/?outline=1#PromiseLand
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VG43TzZpdzFHRkZVaGlzYVlUNHRH@d50outline.privatevpn.services:25378/#Outline%20Key_527_d50%20Exp_2025-10-17
 
 
